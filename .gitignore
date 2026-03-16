@@ -1,8 +1,18 @@
 __pycache__/
 *.pyc
 *.pyo
+<<<<<<< copilot/add-k-means-clustering
 .pytest_cache/
 *.egg-info/
 dist/
 build/
 .env
+=======
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+>>>>>>> main
